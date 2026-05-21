@@ -11,9 +11,9 @@ Markdown is a markup language used to format text
 - It is similar to what we find in html
     - Example:
 
-      >**'# Heading_text'** will be Largest heading
+      >**`# Heading_text`** will be Largest heading
       >>  # heading_text
-      >**'###### Heading_text'** will be Smallest heading
+      >**`###### Heading_text`** will be Smallest heading
       >>  ###### Heading_text
 
 # Paragraph
